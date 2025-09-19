@@ -1,0 +1,55 @@
+/* [Function: Set background color for whole page] */
+body {
+  background-color: #d8ccc3;
+  font-family: Arial, sans-serif;
+
+}
+
+/* [Function: Style the main heading] */
+h1 {
+  color: #55357c;
+  font-size: 4rem;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+/* [Function: Style secondary headings] */
+h2 {
+  color: #481180da;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+/* [Function: Paragraph text styling] */
+p {
+  color: #0c0810;
+  max-width: 600px;
+  margin: 0.5rem auto;
+  padding: 0 1rem;
+}
+
+/* [Function: Unordered and ordered list styling] */
+ul, ol {
+  max-width: 600px;
+  margin: 0.5rem auto 1rem auto;
+  padding-left: 2rem;
+}
+
+ul li {
+  list-style-type: square; /* [Function: Custom bullet style] */
+  color: #3c778b;
+}
+
+ol li {
+  list-style-type: lower-alpha-decimal; /* [Function: Custom ordered list style] */
+    color: #3c778b;
+}
+
+/* [Function: Style for links] */
+a {
+  color: #8b085f;
+  text-decoration: underline;
+}
+
+
